@@ -5,7 +5,6 @@
 
 #include "ChessBoard.hpp"
 
-
 class Castle
 {
 public:
